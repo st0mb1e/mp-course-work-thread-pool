@@ -1,4 +1,6 @@
-package ru.yartsev_vladislav;
+package ru.yartsev_vladislav.port;
+
+import ru.yartsev_vladislav.infra.CustomThreadPool;
 
 import java.util.concurrent.RejectedExecutionException;
 
